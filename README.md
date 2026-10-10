@@ -131,6 +131,44 @@ To restore the sample data: log in as admin, open the dashboard, and use **Reset
 
 Frontend MVP implemented for all three roles and all required pages. Automated checks done during development: source syntax check, import/export resolution check, and 59 checks of the business rules against the service layer. **Not yet done:** browser testing on real devices, screenshots, and connection to a backend. Run `npm run build` once after cloning and report any error.
 
+# 12. Screenshots
+App view: 
+<img width="1909" height="931" alt="image" src="https://github.com/user-attachments/assets/e5a26a60-d3c5-4218-ae5f-2b4b90e81917" />
+<img width="1914" height="946" alt="image" src="https://github.com/user-attachments/assets/4cd0fb1d-95a5-405a-9715-cdbb28f673c1" />
+
+<img width="1919" height="770" alt="image" src="https://github.com/user-attachments/assets/6c17e38c-c5ea-4bd2-8f81-814b27f00001" />
+
+<img width="1909" height="937" alt="image" src="https://github.com/user-attachments/assets/3daf9774-9bb9-4f22-9d12-8bea18638ff2" />
+
+<img width="1916" height="952" alt="image" src="https://github.com/user-attachments/assets/a0c6de15-aec9-452e-abc1-2f386944f8db" />
+
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/3a0ce78a-72cb-41d3-a5f2-9d0bb8fcb8a2" />
+<img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/eba60352-8869-423e-9ea3-8476700c2d5d" />
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/c204c7d8-cfaf-4b0d-bfa7-04c31b25e796" />
+
+Student View: 
+<img width="1908" height="953" alt="image" src="https://github.com/user-attachments/assets/99ca1c6e-099b-43f0-a0d0-77ecb047598e" />
+
+<img width="1919" height="937" alt="image" src="https://github.com/user-attachments/assets/2708d4fe-329a-45bd-b756-4954521476ae" />
+
+club organizer view: 
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/274c93d2-80ae-4aa5-98e3-01a55cd427de" />
+<img width="1908" height="940" alt="image" src="https://github.com/user-attachments/assets/e0943267-a96c-496b-bd5c-04db3db1c295" />
+<img width="1917" height="956" alt="image" src="https://github.com/user-attachments/assets/caad6a9a-682f-47a2-b229-57cd79ab4287" />
+<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/81d9d305-34e0-4b5f-bd60-723eb1c55486" />
+
+Admin view: 
+<img width="1919" height="939" alt="image" src="https://github.com/user-attachments/assets/5c1d4d33-d1f4-4d24-b5e5-ca987c441f6e" />
+<img width="1913" height="934" alt="image" src="https://github.com/user-attachments/assets/87963d32-b24b-4af5-9f83-4521bd116d40" />
+<img width="1912" height="929" alt="image" src="https://github.com/user-attachments/assets/1949ca1e-f89a-4d16-9f8c-0e5a159c8ed1" />
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/5450ea9b-8101-42cd-8233-b08381108d24" />
+
+
+
+
+![Uploading image.png…]()
+
+
 ## 12. Team
 
 **Team Dooms**, Batch 4B
