@@ -1,11 +1,10 @@
-# Render Blueprint: deploys the whole app (React frontend + Node API) as ONE free web service.
-# The database is a free PostgreSQL from Neon (https://neon.tech); paste its connection string
-# into DATABASE_URL when Render asks for it. See README.md, section "Deploy".
+
 services:
   - type: web
     name: campusconnect
     runtime: node
     plan: free
+    rootDir: CampusConnectFullStack
     buildCommand: npm install && npm run build
     startCommand: npm start
     healthCheckPath: /api/health
