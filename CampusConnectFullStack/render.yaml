@@ -2,9 +2,10 @@
 services:
   - type: web
     name: campusconnect
+    rootDir: CampusConnectFullStack
     runtime: node
     plan: free
-    rootDir: CampusConnectFullStack
+    
     buildCommand: npm install && npm run build
     startCommand: npm start
     healthCheckPath: /api/health
