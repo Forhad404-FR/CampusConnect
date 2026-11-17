@@ -5,7 +5,7 @@ import Footer from '../components/Footer';
 
 export default function PublicLayout() {
   const { pathname } = useLocation();
-    useEffect(() => {
+  useEffect(() => {
     window.scrollTo(0, 0);
   }, [pathname]);
   return (
